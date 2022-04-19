@@ -3543,3 +3543,388 @@ Server 2:
 Server 3: 
 Server 4: 
 
+Tasks: (0, 1, 3)
+(3, 3, 3)
+(2, 6, 2)
+(4, 6, 3)
+(6, 10, 3)
+(7, 10, 3)
+(5, 11, 2)
+(1, 12, 3)
+
+Time: 1
+Server 1: 
+Server 2: 
+Server 3: 
+Server 4: 
+Server 5: 
+Server 6: 
+
+Tasks: (3, 3, 3)
+(2, 6, 2)
+(4, 6, 3)
+(6, 10, 3)
+(7, 10, 3)
+(5, 11, 2)
+(1, 12, 3)
+
+Time: 2
+Server 1: (0, 1, 3) 
+Server 2: 
+Server 3: 
+Server 4: 
+Server 5: 
+Server 6: 
+
+Tasks: (3, 3, 3)
+(2, 6, 2)
+(4, 6, 3)
+(6, 10, 3)
+(7, 10, 3)
+(5, 11, 2)
+(1, 12, 3)
+
+Time: 3
+Server 1: (0, 1, 3) 
+Server 2: 
+Server 3: 
+Server 4: 
+Server 5: 
+Server 6: 
+
+Tasks: (2, 6, 2)
+(4, 6, 3)
+(6, 10, 3)
+(7, 10, 3)
+(5, 11, 2)
+(1, 12, 3)
+
+Time: 4
+Server 1: (3, 3, 3) 
+Server 2: (0, 1, 3) 
+Server 3: 
+Server 4: 
+Server 5: 
+Server 6: 
+
+Tasks: (2, 6, 2)
+(4, 6, 3)
+(6, 10, 3)
+(7, 10, 3)
+(5, 11, 2)
+(1, 12, 3)
+
+Time: 5
+Server 1: (3, 3, 3) 
+Server 2: 
+Server 3: 
+Server 4: 
+Server 5: 
+Server 6: 
+
+Tasks: (2, 6, 2)
+(4, 6, 3)
+(6, 10, 3)
+(7, 10, 3)
+(5, 11, 2)
+(1, 12, 3)
+
+Time: 6
+Server 1: (3, 3, 3) 
+Server 2: 
+Server 3: 
+Server 4: 
+Server 5: 
+Server 6: 
+
+Tasks: (6, 10, 3)
+(7, 10, 3)
+(5, 11, 2)
+(1, 12, 3)
+
+Time: 7
+Server 1: (4, 6, 3) 
+Server 2: (2, 6, 2) 
+Server 3: 
+Server 4: 
+Server 5: 
+Server 6: 
+
+Tasks: (6, 10, 3)
+(7, 10, 3)
+(5, 11, 2)
+(1, 12, 3)
+
+Time: 8
+Server 1: (4, 6, 3) 
+Server 2: (2, 6, 2) 
+Server 3: 
+Server 4: 
+Server 5: 
+Server 6: 
+
+Tasks: (6, 10, 3)
+(7, 10, 3)
+(5, 11, 2)
+(1, 12, 3)
+
+Time: 9
+Server 1: (4, 6, 3) 
+Server 2: 
+Server 3: 
+Server 4: 
+Server 5: 
+Server 6: 
+
+Tasks: (6, 10, 3)
+(7, 10, 3)
+(5, 11, 2)
+(1, 12, 3)
+
+Time: 10
+Server 1: 
+Server 2: 
+Server 3: 
+Server 4: 
+Server 5: 
+Server 6: 
+
+Tasks: (5, 11, 2)
+(1, 12, 3)
+
+Time: 11
+Server 1: (6, 10, 3) 
+Server 2: (7, 10, 3) 
+Server 3: 
+Server 4: 
+Server 5: 
+Server 6: 
+
+Tasks: (1, 12, 3)
+
+Time: 12
+Server 1: (6, 10, 3) 
+Server 2: (7, 10, 3) 
+Server 3: (5, 11, 2) 
+Server 4: 
+Server 5: 
+Server 6: 
+
+Tasks: 
+Time: 13
+Server 1: (1, 12, 3) 
+Server 2: (6, 10, 3) 
+Server 3: (7, 10, 3) 
+Server 4: (5, 11, 2) 
+Server 5: 
+Server 6: 
+
+Tasks: 
+Time: 14
+Server 1: (1, 12, 3) 
+Server 2: 
+Server 3: 
+Server 4: 
+Server 5: 
+Server 6: 
+
+Tasks: 
+Time: 15
+Server 1: (1, 12, 3) 
+Server 2: 
+Server 3: 
+Server 4: 
+Server 5: 
+Server 6: 
+
+Tasks: 
+Time: 16
+Server 1: 
+Server 2: 
+Server 3: 
+Server 4: 
+Server 5: 
+Server 6: 
+
+Tasks: 
+Time: 17
+Server 1: 
+Server 2: 
+Server 3: 
+Server 4: 
+Server 5: 
+Server 6: 
+
+Tasks: 
+Time: 18
+Server 1: 
+Server 2: 
+Server 3: 
+Server 4: 
+Server 5: 
+Server 6: 
+
+Tasks: 
+Time: 19
+Server 1: 
+Server 2: 
+Server 3: 
+Server 4: 
+Server 5: 
+Server 6: 
+
+Tasks: 
+Time: 20
+Server 1: 
+Server 2: 
+Server 3: 
+Server 4: 
+Server 5: 
+Server 6: 
+
+Tasks: (2, 4, 3)
+(3, 4, 3)
+(0, 8, 3)
+(1, 8, 4)
+(4, 10, 4)
+
+Time: 1
+Server 1: 
+Server 2: 
+Server 3: 
+Server 4: 
+Server 5: 
+
+Tasks: (2, 4, 3)
+(3, 4, 3)
+(0, 8, 3)
+(1, 8, 4)
+(4, 10, 4)
+
+Time: 2
+Server 1: 
+Server 2: 
+Server 3: 
+Server 4: 
+Server 5: 
+
+Tasks: (2, 4, 3)
+(3, 4, 3)
+(0, 8, 3)
+(1, 8, 4)
+(4, 10, 4)
+
+Time: 3
+Server 1: 
+Server 2: 
+Server 3: 
+Server 4: 
+Server 5: 
+
+Tasks: (2, 4, 3)
+(3, 4, 3)
+(0, 8, 3)
+(1, 8, 4)
+(4, 10, 4)
+
+Time: 4
+Server 1: 
+Server 2: 
+Server 3: 
+Server 4: 
+Server 5: 
+
+Tasks: (0, 8, 3)
+(1, 8, 4)
+(4, 10, 4)
+
+Time: 5
+Server 1: (2, 4, 3) 
+Server 2: (3, 4, 3) 
+Server 3: 
+Server 4: 
+Server 5: 
+
+Tasks: (0, 8, 3)
+(1, 8, 4)
+(4, 10, 4)
+
+Time: 6
+Server 1: (2, 4, 3) 
+Server 2: (3, 4, 3) 
+Server 3: 
+Server 4: 
+Server 5: 
+
+Tasks: (0, 8, 3)
+(1, 8, 4)
+(4, 10, 4)
+
+Time: 7
+Server 1: (2, 4, 3) 
+Server 2: (3, 4, 3) 
+Server 3: 
+Server 4: 
+Server 5: 
+
+Tasks: (0, 8, 3)
+(1, 8, 4)
+(4, 10, 4)
+
+Time: 8
+Server 1: 
+Server 2: 
+Server 3: 
+Server 4: 
+Server 5: 
+
+Tasks: (4, 10, 4)
+
+Time: 9
+Server 1: (1, 8, 4) 
+Server 2: (0, 8, 3) 
+Server 3: 
+Server 4: 
+Server 5: 
+
+Tasks: (4, 10, 4)
+
+Time: 10
+Server 1: (1, 8, 4) 
+Server 2: (0, 8, 3) 
+Server 3: 
+Server 4: 
+Server 5: 
+
+Tasks: 
+Time: 11
+Server 1: (4, 10, 4) 
+Server 2: (1, 8, 4) 
+Server 3: (0, 8, 3) 
+Server 4: 
+Server 5: 
+
+Tasks: 
+Time: 12
+Server 1: (4, 10, 4) 
+Server 2: (1, 8, 4) 
+Server 3: 
+Server 4: 
+Server 5: 
+
+Tasks: 
+Time: 13
+Server 1: (4, 10, 4) 
+Server 2: 
+Server 3: 
+Server 4: 
+Server 5: 
+
+Tasks: 
+Time: 14
+Server 1: (4, 10, 4) 
+Server 2: 
+Server 3: 
+Server 4: 
+Server 5: 
+
